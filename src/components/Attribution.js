@@ -10,9 +10,7 @@ export default function Attribution() {
         >
           Frontend Mentor
         </a>
-        . Coded by{" "}
-        
-        .
+       
       </div>
     </>
   )

@@ -11,13 +11,7 @@ export default function Attribution() {
           Frontend Mentor
         </a>
         . Coded by{" "}
-        <a
-          href="https://tsbsankara.co.ke"
-          target="_blank"
-          rel="noopenner noreferrer"
-        >
-          Thomas Sankara
-        </a>
+        
         .
       </div>
     </>
